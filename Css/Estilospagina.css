@@ -1,0 +1,33 @@
+h1{font-size: 40px;
+    color:goldenrod;
+   }
+
+   h2{font-size: 30px;
+    color:rgb(145, 110, 16);
+   }
+   p{
+    font-family: 'Cousrier New', Courier, monospace;   
+    font-size: 18px;
+    color:rgb(0, 0, 0);
+    
+   }
+   #imagen{
+       border-color: aqua;
+
+   }
+
+   #lista{
+    
+       color: darkcyan;
+   }
+   #pie{
+       color: darkturquoise;
+   }
+
+   body {
+    font-family: sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    background: rgb(94, 40, 4);
+  }
+  

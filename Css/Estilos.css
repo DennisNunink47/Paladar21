@@ -1,0 +1,94 @@
+ 
+ h1{font-size: 50px;
+    color: goldenrod;
+   }
+   h2{font-size: 20px;
+    color: darkolivegreen;
+   }
+   p{
+    font-family: 'Cousrier New', Courier, monospace;   
+    font-size: 15px;
+    color:rgb(0, 0, 0);
+    text-align: center;
+
+   }
+   #texto1{
+    font-family: 'Cousrier New', Courier, monospace;  
+    font-size: 15px;
+    color:rgb(0, 0, 0);
+    text-align: center;
+
+   }
+   
+
+   
+   p.texto2{
+    font-size: 20px
+   }
+   p.texto3{
+    font-size: 20px
+   }
+   h1 {
+    font: bold 20px verdana, sans-serif;
+   }
+   h2 {
+    font: bold 14px verdana, sans-serif;
+   }
+   header, section, footer, aside, nav, article, figure, figcaption,
+hgroup{
+display: block;
+    }
+    body {
+        text-align: center;
+        background-color: rgb(94, 40, 4);
+       } 
+       
+       #agrupar {
+        width: 960px;
+        margin: 15px auto;
+        text-align: left;
+       }
+
+       #cabecera {
+        background: rgb(94, 12, 12);
+        border: 1px solid #a16767;
+        padding: 20px;
+       } 
+       #menu {
+        background: #804604;
+        padding: 5px 15px;
+        text-align: center;
+       }
+       #menu li {
+        margin: auto;
+        text-align: center;
+        display: inline-block;
+        list-style: none;
+        padding: 5px;
+        font: bold 14px verdana, sans-serif;
+       }
+       #seccion {
+        float: left;
+        width: 660px;
+        margin: 20px;
+       }
+       #columna {
+        float: left;
+        width: 220px;
+        margin: 20px 0px;
+        padding: 20px;
+        background: #CCCCCC;
+       }
+       #pie {
+        clear: both; 
+       
+        text-align: center;
+        padding: 20px;
+        border-top: 2px solid #999999;
+       }
+       
+       
+       
+
+   
+
